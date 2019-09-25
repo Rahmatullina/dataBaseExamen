@@ -1,2 +1,2 @@
 # dataBaseExamen
-project for the exam of database course
+App for the exam of database course in university
